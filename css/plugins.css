@@ -240,7 +240,7 @@ Project:	Advisor
     width: 8px;
     height: 8px;
     border-radius: 100%;
-    background: #c10000;
+    background: rgb(136, 217, 16);
     margin: 0 2px;
     display: inline-block;
 }
