@@ -919,17 +919,7 @@ HEADER
     height: 36px;
     float: right;
     width: 70%;
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c10000+0,c10000+55,f40000+100 */
-    background: #c10000;
-    /* Old browsers */
-    background: -moz-linear-gradient(45deg, #c10000 0%, #c10000 55%, #f40000 100%);
-    /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #c10000 0%, #c10000 55%, #f40000 100%);
-    /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #c10000 0%, #c10000 55%, #f40000 100%);
-    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c10000', endColorstr='#f40000', GradientType=1);
-    /* IE6-9 fallback on horizontal gradient */
+    background: rgb(136, 217, 16);
 }
 
 #header .top-bar:before {
@@ -939,7 +929,7 @@ HEADER
     width: 35px;
     height: 79px;
     content: "";
-    background: #c10000;
+    background: rgb(136, 217, 16);
     -ms-transform: rotate(-40deg);
     -webkit-transform: rotate(-40deg);
     transform: rotate(-40deg);
@@ -952,7 +942,7 @@ HEADER
     width: 35px;
     height: 36px;
     content: "";
-    background: #f40000;
+    background: rgb(136, 217, 16);
 }
 
 #header .top-bar p:after {
