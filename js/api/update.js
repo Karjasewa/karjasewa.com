@@ -1,6 +1,6 @@
 let updateList = document.querySelector("#update-list");
 
-fetch("http://karjasewa.com/js/json/updates.json").then(response => {
+fetch("https://karjasewa.com/js/json/updates.json").then(response => {
     return response.json();
 }).then(data => {
     data.forEach(data => {
