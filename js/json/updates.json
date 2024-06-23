@@ -1,0 +1,37 @@
+[
+    {
+        "updateImage": "./images/updates/सुनको मूल्यमा एकैदिन २७ सयको गिरावट.jpg",
+        "updateDetail": {
+            "headline": "सुनको मूल्यमा एकैदिन २७ सयको गिरावट",
+            "publishedDate": "23 June Sun, 2024"
+        }
+    },
+    {
+        "updateImage": "./images/updates/कोशी, बागमती, गण्डकी र लुम्बिनीमा भारी वर्षाको सम्भावना.jpg",
+        "updateDetail": {
+            "headline": "कोशी, बागमती, गण्डकी र लुम्बिनीमा भारी वर्षाको सम्भावना",
+            "publishedDate": "23 June Sun, 2024"
+        }
+    },
+    {
+        "updateImage": "./images/updates/धनगढी उपमहानगरको बजेट २ अर्ब १८ करोड.jpg",
+        "updateDetail": {
+            "headline": "धनगढी उपमहानगरको बजेट २ अर्ब १८ करोड",
+            "publishedDate": "22 June Sat, 2024"
+        }
+    },
+    {
+        "updateImage": "./images/updates/निफ्राको १० लाख कित्ता संस्थापक सेयर बेच्दै एनआईसी एसिया बैंक.jpg",
+        "updateDetail": {
+            "headline": "निफ्राको १० लाख कित्ता संस्थापक सेयर बेच्दै एनआईसी एसिया बैंक",
+            "publishedDate": "15 June Sat, 2024"
+        }
+    },
+    {
+        "updateImage": "./images/updates/नेपालले औषधीय प्रयोजनका लागि गाँजा खेतीलाई वैधानिकता दिने भएको छ.jpg",
+        "updateDetail": {
+            "headline": "नेपालले औषधीय प्रयोजनका लागि गाँजा खेतीलाई वैधानिकता दिने भएको छ",
+            "publishedDate": "28 May Tue, 2024"
+        }
+    }
+]

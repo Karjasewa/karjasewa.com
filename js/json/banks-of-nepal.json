@@ -1,0 +1,37 @@
+[
+    {
+        "sn": "1",
+        "bankName": "Bank XYZ",
+        "loanX": "X",
+        "loanY": "Y",
+        "loanZ": "Z"
+    },
+    {
+        "sn": "2",
+        "bankName": "Bank XYZ",
+        "loanX": "X",
+        "loanY": "Y",
+        "loanZ": "Z"
+    },
+    {
+        "sn": "3",
+        "bankName": "Bank XYZ",
+        "loanX": "X",
+        "loanY": "Y",
+        "loanZ": "Z"
+    },
+    {
+        "sn": "4",
+        "bankName": "Bank XYZ",
+        "loanX": "X",
+        "loanY": "Y",
+        "loanZ": "Z"
+    },
+    {
+        "sn": "5",
+        "bankName": "Bank XYZ",
+        "loanX": "X",
+        "loanY": "Y",
+        "loanZ": "Z"
+    }
+]
