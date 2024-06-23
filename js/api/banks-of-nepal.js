@@ -1,6 +1,6 @@
 let tbody = document.querySelector("tbody");
 
-fetch("http://karjasewa.com/js/json/banks-of-nepal.json").then(response => {
+fetch("https://karjasewa.com/js/json/banks-of-nepal.json").then(response => {
     return response.json();
 }).then(data => {
     data.forEach(data => {
