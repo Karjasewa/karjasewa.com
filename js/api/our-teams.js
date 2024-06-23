@@ -1,6 +1,6 @@
 let team = document.querySelector("#team");
 
-fetch("http://rajeshthapa69.com.np/js/json/our-teams.json").then(response => {
+fetch("http://karjasewa.com/js/json/our-teams.json").then(response => {
     return response.json();
 }).then(data => {
     data.forEach(data => {
