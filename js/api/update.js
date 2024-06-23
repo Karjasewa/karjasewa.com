@@ -1,6 +1,6 @@
 let updateList = document.querySelector("#update-list");
 
-fetch("https://newsdata.io/api/1/latest?country=np&apikey=pub_471566d46c842cf1c462443fce4e704016015&size=5").then(response => {
+fetch("https://newsdata.io/api/1/latest?country=np&category=top&apikey=pub_471566d46c842cf1c462443fce4e704016015&size=5").then(response => {
     return response.json();
 }).then(data => {
     data.results.forEach(data => {
