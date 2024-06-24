@@ -5,6 +5,12 @@
     }
 }
 
+@media (max-width: 400px) {
+    .right .publish-detail{
+        font-size: 15px !important;
+    }
+}
+
 @media (max-width: 1250px) {
     .tp-banner-container {
         padding-top: 60px !important;
