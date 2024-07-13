@@ -9,8 +9,8 @@ fetch("https://karjasewa.com/js/json/interest-rate.json").then(response => {
         let html = `<tr>
                     <td data-label="S.N">${sn}</td>
                     <td data-label="Bank Name">${bankName}</td>
-                    <td data-label="Bank Name">${baseRate}</td>
-                    <td data-label="Bank Name">${effectiveRate}</td>
+                    <td data-label="Loan X">${baseRate}</td>
+                    <td data-label="Loan Y">${effectiveRate}</td>
                     <td class="empty"></td>
                 </tr>`;
         tbody.innerHTML += html;
