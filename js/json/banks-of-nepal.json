@@ -1,22 +1,185 @@
 [
     {
         "sn": "1",
-        "bankName": "Bank XYZ"
+        "bankName": "Agriculture Development Bank"
     },
     {
-        "sn": "1",
-        "bankName": "Bank XYZ"
-    },
+        "sn": "2",
+        "bankName": "Nepal Bank"
+    }
+    ,
     {
-        "sn": "1",
-        "bankName": "Bank XYZ"
-    },
+        "sn": "3",
+        "bankName": "Rastriya Banijya Bank"
+    }
+    ,
     {
-        "sn": "1",
-        "bankName": "Bank XYZ"
-    },
+        "sn": "4",
+        "bankName": "Citizens Bank International Limited"
+    }
+    ,
     {
-        "sn": "1",
-        "bankName": "Bank XYZ"
+        "sn": "5",
+        "bankName": "Everest Bank"
+    }
+    ,
+    {
+        "sn": "6",
+        "bankName": "Global IME Bank Limited"
+    }
+    ,
+    {
+        "sn": "7",
+        "bankName": "Himalayan Bank"
+    }
+    ,
+    {
+        "sn": "8",
+        "bankName": "Kumari Bank"
+    }
+    ,
+    {
+        "sn": "9",
+        "bankName": "Laxmi Sunrise Bank"
+    }
+    ,
+    {
+        "sn": "10",
+        "bankName": "Machhapuchhre Bank"
+    }
+    ,
+    {
+        "sn": "11",
+        "bankName": "Nabil Bank"
+    }
+    ,
+    {
+        "sn": "12",
+        "bankName": "Nepal Investment Mega Bank"
+    }
+    ,
+    {
+        "sn": "13",
+        "bankName": "Nepal SBI Bank"
+    }
+    ,
+    {
+        "sn": "14",
+        "bankName": "NIC Asia Bank"
+    }
+    ,
+    {
+        "sn": "15",
+        "bankName": "NMB Bank"
+    }
+    ,
+    {
+        "sn": "16",
+        "bankName": "Prabhu Bank"
+    }
+    ,
+    {
+        "sn": "17",
+        "bankName": "Prime Commercial Bank"
+    }
+    ,
+    {
+        "sn": "18",
+        "bankName": "Sanima Bank"
+    }
+    ,
+    {
+        "sn": "19",
+        "bankName": "Siddhartha Bank"
+    }
+    ,
+    {
+        "sn": "20",
+        "bankName": "Standard Chartered Bank"
+    }
+    ,
+    {
+        "sn": "21",
+        "bankName": "Corporate Development Bank"
+    }
+    ,
+    {
+        "sn": "22",
+        "bankName": "Excel Development Bank"
+    }
+    ,
+    {
+        "sn": "23",
+        "bankName": "Garima Bikas Bank"
+    }
+    ,
+    {
+        "sn": "24",
+        "bankName": "Green Development Bank"
+    }
+    ,
+    {
+        "sn": "25",
+        "bankName": "Jyoti Bikas Bank"
+    }
+    ,
+    {
+        "sn": "26",
+        "bankName": "Kamana Sewa Bikas Bank"
+    }
+    ,
+    {
+        "sn": "27",
+        "bankName": "Karnali Development Bank"
+    }
+    ,
+    {
+        "sn": "28",
+        "bankName": "Lumbini Bikas Bank"
+    }
+    ,
+    {
+        "sn": "29",
+        "bankName": "Mahalaxmi Development Bank"
+    }
+    ,
+    {
+        "sn": "30",
+        "bankName": "Miteri Development Bank"
+    }
+    ,
+    {
+        "sn": "31",
+        "bankName": "Muktinath Bikash Bank"
+    }
+    ,
+    {
+        "sn": "32",
+        "bankName": "Narayani Development Bank"
+    }
+    ,
+    {
+        "sn": "33",
+        "bankName": "Salapa Bikash Bank"
+    }
+    ,
+    {
+        "sn": "34",
+        "bankName": "Saptakoshi Development Bank"
+    }
+    ,
+    {
+        "sn": "35",
+        "bankName": "Sangrila Development Bank"
+    }
+    ,
+    {
+        "sn": "36",
+        "bankName": "Shine Resunga Development Bank"
+    }
+    ,
+    {
+        "sn": "37",
+        "bankName": "Sindhu Bikas Bank"
     }
 ]
