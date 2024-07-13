@@ -2,258 +2,258 @@
     {
         "sn": "1",
         "bankName": "Agriculture Development Bank",
-        "baseRate": "",
+        "baseRate": "8.38%",
         "effectiveRate": "Base Rate + Appicable Premium"
     },
     {
         "sn": "2",
         "bankName": "Nepal Bank",
-        "baseRate": "",
+        "baseRate": "7.79%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
         "sn": "3",
         "bankName": "Rastriya Banijya Bank",
-        "baseRate": "",
+        "baseRate": "7.21%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "4",
         "bankName": "Citizens Bank International Limited",
-        "baseRate": "",
+        "baseRate": "8.85%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "5",
         "bankName": "Everest Bank",
-        "baseRate": "",
+        "baseRate": "7.53%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "6",
         "bankName": "Global IME Bank Limited",
-        "baseRate": "",
+        "baseRate": "8.40%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "7",
         "bankName": "Himalayan Bank",
-        "baseRate": "",
+        "baseRate": "9.28%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "8",
         "bankName": "Kumari Bank",
-        "baseRate": "",
+        "baseRate": "9.48%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "9",
         "bankName": "Laxmi Sunrise Bank",
-        "baseRate": "",
+        "baseRate": "8.90%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "10",
         "bankName": "Machhapuchhre Bank",
-        "baseRate": "",
+        "baseRate": "8.45%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "11",
         "bankName": "Nabil Bank",
-        "baseRate": "",
+        "baseRate": "7.86%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "12",
         "bankName": "Nepal Investment Mega Bank",
-        "baseRate": "",
+        "baseRate": "8.03%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "13",
         "bankName": "Nepal SBI Bank",
-        "baseRate": "",
+        "baseRate": "8.52%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "14",
         "bankName": "NIC Asia Bank",
-        "baseRate": "",
+        "baseRate": "9.13%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "15",
         "bankName": "NMB Bank",
-        "baseRate": "",
+        "baseRate": "8.70%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "16",
         "bankName": "Prabhu Bank",
-        "baseRate": "",
+        "baseRate": "8.35%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "17",
         "bankName": "Prime Commercial Bank",
-        "baseRate": "",
+        "baseRate": "9.04%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "18",
         "bankName": "Sanima Bank",
-        "baseRate": "",
+        "baseRate": "8.20%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "19",
         "bankName": "Siddhartha Bank",
-        "baseRate": "",
+        "baseRate": "8.31%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "20",
         "bankName": "Standard Chartered Bank",
-        "baseRate": "",
+        "baseRate": "6.36%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "21",
         "bankName": "Corporate Development Bank",
-        "baseRate": "",
+        "baseRate": "10.53%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "22",
         "bankName": "Excel Development Bank",
-        "baseRate": "",
+        "baseRate": "8.96%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "23",
         "bankName": "Garima Bikas Bank",
-        "baseRate": "",
+        "baseRate": "9.87%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "24",
         "bankName": "Green Development Bank",
-        "baseRate": "",
+        "baseRate": "10.48%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "25",
         "bankName": "Jyoti Bikas Bank",
-        "baseRate": "",
+        "baseRate": "9.62%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "26",
         "bankName": "Kamana Sewa Bikas Bank",
-        "baseRate": "",
+        "baseRate": "9.74%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "27",
         "bankName": "Karnali Development Bank",
-        "baseRate": "",
+        "baseRate": "11.12%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "28",
         "bankName": "Lumbini Bikas Bank",
-        "baseRate": "",
+        "baseRate": "10.10%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "29",
         "bankName": "Mahalaxmi Development Bank",
-        "baseRate": "",
+        "baseRate": "9.70%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "30",
         "bankName": "Miteri Development Bank",
-        "baseRate": "",
+        "baseRate": "9.83%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "31",
         "bankName": "Muktinath Bikash Bank",
-        "baseRate": "",
+        "baseRate": "9.38%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "32",
         "bankName": "Narayani Development Bank",
-        "baseRate": "",
+        "baseRate": "10.75%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "33",
         "bankName": "Salapa Bikash Bank",
-        "baseRate": "",
+        "baseRate": "11.41%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "34",
         "bankName": "Saptakoshi Development Bank",
-        "baseRate": "",
+        "baseRate": "9.99%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "35",
         "bankName": "Sangrila Development Bank",
-        "baseRate": "",
+        "baseRate": "9.94%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "36",
         "bankName": "Shine Resunga Development Bank",
-        "baseRate": "",
+        "baseRate": "8.82%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
     ,
     {
-        "sn": "2",
+        "sn": "37",
         "bankName": "Sindhu Bikas Bank",
-        "baseRate": "",
+        "baseRate": "10.12%",
         "effectiveRate": "Base Rate + Appicable Premium"
     }
 ]
