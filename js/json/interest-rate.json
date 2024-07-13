@@ -1,0 +1,259 @@
+[
+    {
+        "sn": "1",
+        "bankName": "Agriculture Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    },
+    {
+        "sn": "2",
+        "bankName": "Nepal Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "3",
+        "bankName": "Rastriya Banijya Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Citizens Bank International Limited",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Everest Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Global IME Bank Limited",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Himalayan Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Kumari Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Laxmi Sunrise Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Machhapuchhre Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Nabil Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Nepal Investment Mega Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Nepal SBI Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "NIC Asia Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "NMB Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Prabhu Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Prime Commercial Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Sanima Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Siddhartha Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Standard Chartered Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Corporate Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Excel Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Garima Bikas Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Green Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Jyoti Bikas Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Kamana Sewa Bikas Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Karnali Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Lumbini Bikas Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Mahalaxmi Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Miteri Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Muktinath Bikash Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Narayani Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Salapa Bikash Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Saptakoshi Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Sangrila Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Shine Resunga Development Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+    ,
+    {
+        "sn": "2",
+        "bankName": "Sindhu Bikas Bank",
+        "baseRate": "",
+        "effectiveRate": "Base Rate + Appicable Premium"
+    }
+]
