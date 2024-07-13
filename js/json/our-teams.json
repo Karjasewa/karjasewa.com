@@ -28,5 +28,25 @@
         "teamImage": "./images/teams/team.jpg",
         "teamName": "John Doe",
         "teamProfession": "Chartered Accountant"
+    },
+    {
+        "teamImage": "./images/teams/team.jpg",
+        "teamName": "John Doe",
+        "teamProfession": "Chartered Accountant"
+    },
+    {
+        "teamImage": "./images/teams/team.jpg",
+        "teamName": "John Doe",
+        "teamProfession": "Chartered Accountant"
+    },
+    {
+        "teamImage": "./images/teams/team.jpg",
+        "teamName": "John Doe",
+        "teamProfession": "Chartered Accountant"
+    },
+    {
+        "teamImage": "./images/teams/team.jpg",
+        "teamName": "John Doe",
+        "teamProfession": "Chartered Accountant"
     }
 ]
