@@ -2,6 +2,8 @@
 <html lang="en" class="no-js">
 
 <script src="js/date.js" defer></script>
+<script src="js/api/banks-of-nepal.js" defer></script>
+
 
 <head>
     <!-- Google Tag Manager -->
@@ -29,7 +31,7 @@
      ================================================== -->
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Become a Partner</title>
+    <title>Banks of Nepal</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="">
@@ -63,6 +65,10 @@
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/settings.css">
 
+    <!--Fontawesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -86,6 +92,80 @@
             }
         }
     </script>
+
+    <style>
+        .bank-of-nepal-title{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 10px;
+            gap: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            border-bottom: 5px solid #002124;
+        }
+
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+            padding: 20px;
+            font-family: "Poppins", sans-serif;
+            transition: 1s ease;
+            color: black;
+        }
+
+        td,
+        th {
+            border: 1px solid black;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #009aa8;
+        }
+
+        .empty {
+            display: none;
+        }
+
+        @media (max-width: 1000px) {
+            hr {
+                display: none;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .bank-of-nepal-title {
+                font-size: 18px !important;
+            }
+
+            tr {
+                background-color: white !important;
+            }
+
+            thead {
+                display: none;
+            }
+
+            td {
+                display: block;
+                text-align: right;
+            }
+
+            td::before {
+                content: attr(data-label);
+                float: left;
+            }
+
+            .empty {
+                display: block;
+                border: none;
+                padding: 20px;
+            }
+        }
+    </style>
 
 
 </head>
@@ -168,73 +248,24 @@
     </header>
     <!-- / HERDER -->
 
-
-
-
-
-
     <!-- CONTACT US -->
-    <section class="about-section become-partner">
-        <div class="container">
-            <div class="row">
-                <div class="height-100"></div>
-                <div class="col-md-12">
-                    <div class="heading text-center animate bounceIn"> Becoming our business partner is an easy process
-                        - Just call or share your no. and we will get in touch with you.</div>
-                </div>
-            </div>
-            <div class="height-100"></div>
-            <div class="row">
-                <div class="col-md-3"></div>
-                <div class="form">
-                    <div class="col-md-6 col-sm-6 animate fadeInRight">
 
-                        <form class="contact-form" id="messageForm" name="contact_form" method="post"
-                            action="https://formspree.io/f/myyrajoa">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <input type="text" data-delay="300" placeholder="Your Full Name" name="Full Name"
-                                        id="contact_name" class="input" data-validation="custom"
-                                        data-validation-regexp="^[a-zA-Z-,]+(\s{0,1}[a-zA-Z-, ])*$"
-                                        data-validation-error-msg="User name has to be an alphabet.." required>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="email" data-delay="300" placeholder="E-mail Address"
-                                        name="E-mail Address" id="contact_email" class="input" data-validation="email"
-                                        required>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <input type="text" data-delay="300" placeholder="Phone Number" name="Phone Number"
-                                        id="contact_phone" onkeypress="return AllowNumbersOnly(event)" class="input"
-                                        data-validation="length" data-validation-length="10-10"
-                                        data-validation-error-msg="The Phon No. contain at least 10 Number" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="text" data-delay="300" placeholder="Subject" name="Subject"
-                                        id="subject" class="input" data-validation="custom"
-                                        data-validation-regexp="^[a-zA-Z-,]+(\s{0,1}[a-zA-Z-, ])*$"
-                                        data-validation-allowing=" "
-                                        data-validation-error-msg="Subject has to be Only alphabet.." required>
-                                </div>
-                            </div>
-                            <textarea data-delay="500" class="required valid" placeholder="Message" name="Message"
-                                id="message" required></textarea>
-                            <button class="btn btn-subscribe" id="submit" name="" type="submit" data-text="Send Message"
-                                onClick="validateContact();">Send Message</button>
-                        </form>
-
-
-                    </div>
-                </div>
-                <div class="col-md-3"></div>
-            </div>
-        </div>
-    </section>
-    <!-- / COMPANY OVERVIEW -->
-
-
+    <div class="section" style="padding: 20px; display: flex; justify-content: center; flex-direction: column; align-items: center;">
+        <hr>
+        <p style="font-size: 25px; font-weight: bolder;" class="bank-of-nepal-title"><i class="fa-solid fa-building-columns"></i>INTEREST RATE</p>
+        <br>
+        <table>
+            <thead>
+                <th>S.N</th>
+                <th>BANK NAME</th>
+                <th>BASE INTEREST RATE</th>
+                <th>EFFECTIVE INTEREST RATE</th>
+            </thead>
+            <tbody>
+             <!--API called here-->
+            </tbody>
+        </table>
+    </div>
 
     <footer id="footer">
         <div class="container">

@@ -112,7 +112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<li><a href="about-us.html">About Us</a></li>
 								<li class="dropdown"><a href="#.">Loans <i class="fa fa-caret-down"></i></a>
 									<ul class="dropdown-menu">
-										<li><a href="home-loan.html">Home Loan</a></li>
+										
                                         <li><a href="loan-against-property.html">Loan Against Property</a></li>
 										<li><a href="balance-transfer.html">Balance Transfer</a></li>
 										<li><a href="commercial-loan.html">Commercial Loan</a></li>
@@ -188,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		                            <div class="usefull-links-widget clearfix">
 		                                <ul>
 		                                     <h4>Loans</h4>
-		                                    <li><a href="home-loan.html">Home Loan</a></li>
+		                                    
 		                                    <li><a href="loan-against-property.html">Loan Against Property</a></li>
 		                                    <li><a href="commercial-loan.html">Commercial Loan</a></li>
 		                                    <li><a href="overdraft-loan-facility.html">OD Limit</a></li>
