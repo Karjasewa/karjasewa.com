@@ -1,6 +1,6 @@
 let tbody = document.querySelector("tbody");
 
-fetch("https://karjasewa.com/js/json/interest-rate.json").then(response => {
+fetch("https://karjasewa.github.io/karjasewa.com/js/json/interest-rate.json").then(response => {
     return response.json();
 }).then(data => {
     data.forEach(data => {
